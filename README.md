@@ -5,14 +5,13 @@ Building fast, scalable, and pixel-perfect web applications with modern React ec
 Currently deepening Next.js 14+, TypeScript, and full-stack development.
 
 ### Featured Projects
-
 | Project                | Stack                                 | Description                                   | Live Demo & Source                           |
-|------------------------|---------------------------------------|-----------------------------------------------|----------------------------------------------|
+|------------------------|----------------------------------------|-----------------------------------------------|----------------------------------------------|
+| **QMS - Kavir Motor**  | React • TypeScript • ASP.NET Core 8 • EF Core • JWT | Full-stack quality management system with document control, review workflows, quality event calendar, and role-based access (7 user roles) | Private/Internal |
 | **My Food Store**      | React • Redux Toolkit • Ant Design    | Full-featured food delivery app with cart, checkout, map picker & admin panel | [Live](https://my-food-store-nine.vercel.app/) • [Code](https://github.com/ncmoghimi86-ship-it/my-food-store) |
 | **Hotel Booking System**| React • Ant Design • Mock API         | Complete hotel reservation platform (user + admin dashboards) | [Live]() • [Code](https://github.com/ncmoghimi86-ship-it/hotel-booking-system) |
 | **Shop Project**       | Vanilla JavaScript • Pure CSS         | Modern e-commerce store from scratch (no frameworks – DOM mastery) | [Live]( https://shop-project-three-rust.vercel.app/) • [Code](https://github.com/ncmoghimi86-ship-it/shop-project) |
 | **Advanced TodoList**  | Vanilla JS • LocalStorage • Dark Mode | Feature-rich todo app with persistence        | [Live](https://todolist-rho-two-74.vercel.app) • [Code](https://github.com/ncmoghimi86-ship-it/todolist) |
-
 ### Core Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
