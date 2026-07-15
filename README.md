@@ -1,7 +1,8 @@
 ## Hi there, I'm nc moghimi 👋
-**Frontend Engineer** | React & Next.js Specialist
 
-Building fast, scalable, and pixel-perfect web applications with modern React ecosystem.  
+**Frontend Engineer** transitioning to Full-Stack | React & Next.js Specialist
+Building fast, scalable, and pixel-perfect web applications with modern React ecosystem.
+Recently shipped a full-stack QMS (Quality Management System) for an industrial manufacturer, combining React/TypeScript with ASP.NET Core 8.
 Currently deepening Next.js 14+, TypeScript, and full-stack development.
 
 ### Featured Projects
@@ -12,10 +13,12 @@ Currently deepening Next.js 14+, TypeScript, and full-stack development.
 | **Hotel Booking System**| React • Ant Design • Mock API         | Complete hotel reservation platform (user + admin dashboards) | [Live]() • [Code](https://github.com/ncmoghimi86-ship-it/hotel-booking-system) |
 | **Shop Project**       | Vanilla JavaScript • Pure CSS         | Modern e-commerce store from scratch (no frameworks – DOM mastery) | [Live]( https://shop-project-three-rust.vercel.app/) • [Code](https://github.com/ncmoghimi86-ship-it/shop-project) |
 | **Advanced TodoList**  | Vanilla JS • LocalStorage • Dark Mode | Feature-rich todo app with persistence        | [Live](https://todolist-rho-two-74.vercel.app) • [Code](https://github.com/ncmoghimi86-ship-it/todolist) |
+
 ### Core Stack
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,7 +31,6 @@ Currently deepening Next.js 14+, TypeScript, and full-stack development.
 - TypeScript (strict mode)
 - React Query / TanStack Query
 - Zustand + RTK hybrid state management
-
 
 ### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=ncmoghimi86-ship-it&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
@@ -48,6 +50,4 @@ Currently deepening Next.js 14+, TypeScript, and full-stack development.
 
 ---
 Thanks for stopping by! Feel free to reach out. 🚀
-
-
 Feel free to reach out!
